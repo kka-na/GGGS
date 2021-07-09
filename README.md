@@ -65,4 +65,7 @@ Select an iOS simulator or device on Xcode to run the app.
 🔫 If you touch the bounding box of the detected object on the screen, a list of recipes that can be made with the material is displayed.
 🔫 Click the recipe displayed in the list to see more details about the recipe. Finally, if you click the How to cook button, you will be taken to the recipe site.
 
-see this [![GGGS Project Presentation Video](http://img.youtube.com/vi/MNt7yOPWYk8/0.jpg)](https://youtu.be/MNt7yOPWYk8) for whole project description and test running.
+see this video for whole project description and test running.
+
+[![GGGS Project Presentation Video](http://img.youtube.com/vi/MNt7yOPWYk8/0.jpg)](https://youtu.be/MNt7yOPWYk8) 
+
