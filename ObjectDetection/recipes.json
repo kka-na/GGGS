@@ -1,0 +1,322 @@
+[
+    {
+        "vegetable" : "Cabbage",
+        "name": "Cabbage Fat-Burning Soup",
+        "information": "This tomato and cabbage soup was rumored, in days of old, to melt away those thighs.",
+        "ingredients": "Carrot, Onions, Tomatoes, Grren Beans, Bell Pepper",
+        "link": "https://www.allrecipes.com/recipe/13116/cabbage-fat-burning-soup/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3091518.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Cabbage",
+        "name": "Cabbage Roll Casserole",
+        "information": "I use to make regular cabbage rolls until I found this recipe. Now, instead, I make this and it is as good as the regular cabbage rolls and alot easier.",
+        "ingredients": "Ground Beef, Onion, Tomato Sauce, Rice",
+        "link": "https://www.allrecipes.com/recipe/14690/cabbage-roll-casserole/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F975239.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Cabbage",
+        "name": "Grilled Cabbage",
+        "information": "This is my adaptation of grilled cabbage with a bacon twist. I like to use peppered bacon, so I don't pepper my cabbage; it's up to you.",
+        "ingredients": "Butter, salt, bacon, and black pepper",
+        "link": "https://www.allrecipes.com/recipe/237714/grilled-cabbage/ ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2307278.jpg"
+    },
+    {
+        "vegetable": "Cabbage",
+        "name": "Sally's Napa Cabbage Salad",
+        "information": "My sister introduced us to this delicious salad, made with napa cabbage, ramen noodles, and a special dressing. Napa cabbage gives it a firm, crisp texture that is essential. Any flavor of ramen is good--I prefer the chicken or Oriental.",
+        "ingredients": "Ramen noodles, Onions, Mayonnaise",
+        "link": "https://www.allrecipes.com/recipe/272807/sallys-napa-cabbage-salad/ ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6606879.jpg"
+    },
+    {
+        "vegetable": "Cabbage",
+        "name": "Norwegian Christmas Cabbage",
+        "information": "Norwegian Christmas Cabbage is essentially a kind of sweet and sour sauerkraut, spiced with caraway seeds.",
+        "ingredients": "Bacon, butter, salt, and pepper",
+        "link": "https://www.allrecipes.com/recipe/34191/norwegian-christmas-cabbage/ ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7521799.jpg"
+    },
+    {
+        "vegetable": "Carrot",
+        "name": "Sam's Famous Carrot Cake",
+        "information": "My Grandfather (Sam) was famous for this cake. Everyone who knew him, knows of his famous carrot cake. He would always have some available for anyone who wanted it. We'll miss him, but his carrot cake legacy will always live on! Enjoy!",
+        "ingredients": "Cinnamon, Vanilla Extract, White Sugar, Egges, Buttermilk",
+        "link": "https://www.allrecipes.com/recipe/8270/sams-famous-carrot-cake/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7833123.jpg&q=85"
+    },
+    {
+        "vegetable": "Carrot",
+        "name": "Orange Glazed Carrots",
+        "information": "A wonderfully easy glazed carrot recipe that the whole family will enjoy. Great for special occasions or an every day meal.",
+        "ingredients": "Orange Juice, Brown Sugar, Butter, Salt",
+        "link": "https://www.allrecipes.com/recipe/24773/orange-glazed-carrots/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F274555.jpg"
+    },
+    {
+        "vegetable": "Carrot",
+        "name": "Roasted Carrot and Tahini Soup",
+        "information": "A little sweet, a little creamy, a little nutty. Combine that with a variety of spices and you have a flavorful carrot soup! Garnish with shelled pumpkin seeds if desired.",
+        "ingredients": "Onion, tahini, and curry powder",
+        "link": "https://www.allrecipes.com/recipe/267797/roasted-carrot-and-tahini-soup/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5768214.jpg"
+    },
+    {
+        "vegetable": "Carrot",
+        "name": "Buttery Cooked Carrot",
+        "information": "Sweet cooked carrots that even my carrot hating family loves. There are never leftovers.",
+        "ingredients": "Margarine, Brown Sugar",
+        "link": "https://www.allrecipes.com/recipe/18256/buttery-cooked-carrots/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5593276.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Carrot",
+        "name": "Carrot Patties",
+        "information": "These delightful carrot patties can be served either as a main dish or side. They are always a favorite.",
+        "ingredients": "Garlic, Eggs, Flour, Bread Crumbs",
+        "link": "https://www.allrecipes.com/recipe/15183/carrot-patties/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F376834.jpg"
+    },
+    {
+        "vegetable": "Galic",
+        "name": "Homemade Garlic Bread",
+        "information": "If you're a garlic lover this garlic bread recipe's for you! Garlic, butter, olive oil, and freshly baked bread-what else can you ask for? Try this recipe today--you won't regret it!",
+        "ingredients": "Butter, olive oil, and French bread",
+        "link": "https://www.allrecipes.com/recipe/273325/homemade-garlic-bread/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8635127.jpg"
+    },
+    {
+        "vegetable": "Galic",
+        "name": "Garlic Steak with Garlic",
+        "information": "If you are a fan of garlic, this garlic steak with garlic confit will surely put a smile on your face.",
+        "ingredients": "Olive oil, salt, black pepper, and New York strip steaks",
+        "link": "https://www.allrecipes.com/recipe/222330/garlic-steak-with-garlic/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8116350.jpg&q=85"
+    },
+    {
+        "vegetable": "Galic",
+        "name": "Garlic Shrimp Scampi",
+        "information": "A family pleaser for years! The more garlic the better for the garlic lovers of the world!",
+        "ingredients": "Angel hair pasta, butter, and shrimp",
+        "link": "https://www.allrecipes.com/recipe/18131/garlic-shrimp-scampi/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5892700.jpg&q=85"
+    },
+    {
+        "vegetable": "Galic",
+        "name": "Garlic Roasted Carrots",
+        "information": "Fresh garlic and garlic powder each bring slightly different notes to this roasted carrot recipe. These are addicting, so you might want to double the recipe!",
+        "ingredients": "Carrots, butter, salt, and black pepper",
+        "link": "https://www.allrecipes.com/recipe/279053/garlic-roasted-carrots/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7780339.jpg&q=85"
+    },
+    {
+        "vegetable": "Galic",
+        "name": "Quick Cheddar Garlic Biscuits",
+        "information": "Warm cheesy garlic biscuits!",
+        "ingredients": "Biscuit mix, Cheddar cheese, and butter",
+        "link": "https://www.allrecipes.com/recipe/229366/quick-cheddar-garlic-biscuits/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3947543.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Onion",
+        "name": "Blooming Onion and Dipping Sauce",
+        "information": "This batter-fried onion and a spicy dipping sauce will get your party going any day!",
+        "ingredients": "Egg, Milk, Flour, Mayonnaise, Ketchup",
+        "link": "https://www.allrecipes.com/recipe/17351/blooming-onion-and-dipping-sauce/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4508511.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Onion",
+        "name": "French Onion Chicken Meatballs",
+        "information": "Richly seasoned meatballs baked with a rich French onion sauce and topped with melted Gruyere cheese make this a meal fit for hosting guests. Serve them with egg noodles or some seasoned red potatoes and French bread on the side.",
+        "ingredients": "Ground chicken, bread crumbs, egg, and beef broth",
+        "link": "https://www.allrecipes.com/recipe/280472/french-onion-chicken-meatballs/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8193611.jpg"
+    },
+    {
+        "vegetable": "Onion",
+        "name": "French Onion Bruschetta",
+        "information": "If you like French Onion soup you'll love this easy-to-make French Onion Bruschetta!",
+        "ingredients": "Baguette, Marsala, and Swiss cheese",
+        "link": "https://www.allrecipes.com/recipe/244108/french-onion-bruschetta/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2296237.jpg"
+    },
+    {
+        "vegetable": "Onion",
+        "name": "Festive Onion Casserole",
+        "information": "Simple to prepare, this creamy onion dish is sure to become a holiday favorite.",
+        "ingredients": "Butter, whipping cream, eggs, and Parmesan cheese",
+        "link": "https://www.allrecipes.com/recipe/13631/festive-onion-casserole/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4373273.jpg"
+    },
+    {
+        "vegetable": "Onion",
+        "name": "Onion Tart",
+        "information": "A simple tart made with onions.",
+        "ingredients": "Eggs, pie crust, and bacon",
+        "link": "https://www.allrecipes.com/recipe/15629/onion-tart/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1061234.jpg"
+    },
+    {
+        "vegetable": "Pepper",
+        "name": "Spiced Sweet Roasted Red Pepper Hummus",
+        "information": "Serve with pita bread-you can cut pita bread into wedges and toast it for a different taste sensation. Tahini is a sesame paste, you can usually find it in the Mediterranean section of your grocery store.",
+        "ingredients": "Lemon Juice, Tahini, Minced, Ground Cumin, Parsley",
+        "link": "https://www.allrecipes.com/recipe/15006/spiced-sweet-roasted-red-pepper-hummus/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1067443.jpg&w=596&h=399&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Pepper",
+        "name": "Roasted Red Pepper Cream Sauce",
+        "information": "A light and creamy sauce with puree of roasted red peppers as the base. It is excellent on any type of pasta, but tortellini or ravioli seems to be the best match. The prep time is rather long, but the result is definitely worth it. Freezes well. In fact, the taste may improve slightly.",
+        "ingredients": "Garlic, Basil, Olive Oil, Romano Cheese",
+        "link": "https://www.allrecipes.com/recipe/29112/roasted-red-pepper-cream-sauce/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F862315.jpg"
+    },
+    {
+        "vegetable": "Pepper",
+        "name": "Mary's Roasted Red Pepper Dip",
+        "information": "This is a HUGE hit at all of my parties!!! With kids, as well as adults...and it is very easy to make!!! Serve this flavorful dip with tortilla chips. Roasted red peppers and two kinds of cheese create the perfect combination. Adjust the amounts of onion and garlic to taste.",
+        "ingredients": "Monterey Jack Cheese, Cream Cheese, Mayonnaise, Onion",
+        "link": "https://www.allrecipes.com/recipe/23929/marys-roasted-red-pepper-dip/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F183479.jpg&w=596&h=399&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Pepper",
+        "name": "Roasted Red Pepper Tapenade",
+        "information": "Roasted red peppers, artichoke hearts and garlic are the main flavors in this bright tapenade. This simple recipe can be used as a dip for vegetables and pita triangles or as a sandwich spread.",
+        "ingredients": "Artichoke Hearts, Cilatro, Parmesan Cheese, Olive Oil, Garilc",
+        "link": "https://www.allrecipes.com/recipe/145815/roasted-red-pepper-tapenade/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1015302.jpg"
+    },
+    {
+        "vegetable": "Pepper",
+        "name": "Meaty Stuffed Pepper Casserole",
+        "information": "My husband loves this casserole; he has nicknamed it 'meat mountain.' Much easier to make than the usual stuffed pepper.",
+        "ingredients": "Butter, onion, galic, ground beef, and tomato paste",
+        "link": "https://www.allrecipes.com/recipe/231565/meaty-stuffed-pepper-casserole/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1015302.jpg"
+    },
+    {
+        "vegetable": "Potato",
+        "name": "Potato Salad",
+        "information": "Quick and easy potato salad recipe with a lot of old-fashioned potato salad flavor. This will become a go-to summer side dish recipe. Better if made the day before.",
+        "ingredients": "Eggs, mayonnaise, and pickles",
+        "link": "https://www.allrecipes.com/recipe/232864/potato-salad/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6302287.jpg&w=596&h=596&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Potato",
+        "name": "World's Best Potato Soup",
+        "information": "Cheesy, hearty potato soup that's better than the restaurants.",
+        "ingredients": "Cream, Celery, Chicken, Bacon, Mushroom",
+        "link": "https://www.allrecipes.com/recipe/260329/crunchy-sweet-potato-pancakes/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5035931.jpg&w=596&h=792&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Potato",
+        "name": "Octoberfest German Potato Salad",
+        "information": "This potato salad is wonderful served with Bratwurst and Kraut!",
+        "ingredients": "Onion, Mayonnaise, Vinegar, Sugar, Parsley, Oil",
+        "link": "https://www.allrecipes.com/recipe/14412/octoberfest-german-potato-salad/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8163746.jpg&q=85"
+    },
+    {
+        "vegetable": "Potato",
+        "name": "Potato, Kale and Pecorino Frittata",
+        "information": "This Potato, Kale and Pecorino Frittata is courtesy of In Sock Monkey Slippers as part of the U.S. Potato Board's Potato Lovers Club. This Potato Frittata is an easy way to freshen up a weeknight dinner.",
+        "ingredients": "Kale, Eggs, Dijon mustard, and Romano cheese",
+        "link": "https://www.allrecipes.com/recipe/242261/potato-kale-and-pecorino-frittata/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2222427.jpg"
+    },
+    {
+        "vegetable": "Potato",
+        "name": "Loaded Baked Potato Skins",
+        "information": "Loaded potato skins... This is one of our favorite appetizers. I use the thicker cut of bacon and men always devour them!",
+        "ingredients": "Parmesan cheese, ground paprika, bacon, and Cheddar cheese",
+        "link": "https://www.allrecipes.com/recipe/282219/loaded-baked-potato-skins/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9080337.jpg"
+    },
+    {
+        "vegetable": "Tomato",
+        "name": "Tomato Chicken Parmesan",
+        "information": "A delicious Italian breaded chicken smothered with cheese and tomato-based pasta sauce!",
+        "ingredients": "Eggs, Parmesan cheese, bread crumbs, chicken breast, and Monterey Jack cheese",
+        "link": "https://www.allrecipes.com/recipe/9044/tomato-chicken-parmesan/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4335252.jpg&w=595&h=595&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Tomato",
+        "name": "Spinach Tomato Tortellini",
+        "information": "An old boyfriend's mother used to cook this for me whenever I ate over. Cheese tortellini are served in a creamy tomato and spinach sauce. I love it!",
+        "ingredients": "Cheese tortellini, spinach, basil, ggarlic, heavy cream, and Parmesan cheese",
+        "link": "https://www.allrecipes.com/recipe/76129/spinach-tomato-tortellini/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2109963.jpg&w=271&h=271&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Tomato",
+        "name": "Bacon and Tomato Cups",
+        "information": "Little buttermilk biscuit cups are baked with a savory mixture of bacon and tomato inside.",
+        "ingredients": "Bacon, onion, Shredded Swiss cheese, mayonnaise, and buttermilk biscuit dough",
+        "link": "https://www.allrecipes.com/recipe/14967/bacon-and-tomato-cups/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2309946.jpg"
+    },
+    {
+        "vegetable": "Tomato",
+        "name": "Tomato and Mozzarella Bites",
+        "information": "A great way to serve tomato mozzarella salad. Great presentation; always a hit! You can find the bite-sized mozzarella ('Bocconcini') at most supermarkets. If they are on the larger side, cut them in half.",
+        "ingredients": "Basil leaves, mozzarella cheese, balsamic vinegar, and olive oil",
+        "link": "https://www.allrecipes.com/recipe/104806/tomato-and-mozzarella-bites/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F43194.jpg"
+    },
+    {
+        "vegetable": "Tomato",
+        "name": "Sun-Dried Tomato Basil Orzo",
+        "information": "Basil and sun-dried tomato add flavor and zing to this simple yet delicious pasta salad recipe. It's perfect for picnics, and great served warm or cold.",
+        "ingredients": "Orzo pasta, Basil leaves, olive oil, and Parmesan cheese",
+        "link": "https://www.allrecipes.com/recipe/142242/sun-dried-tomato-basil-orzo/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1387994.jpg"
+    },
+    {
+        "vegetable": "Zucchini",
+        "name": "Zucchini Alfredo",
+        "information": "Excellent! Shredded zucchini in a creamy sauce.",
+        "ingredients": "Egg Noodles, Vegetable Oil, Garlic, Milk, Cream Cheese, Basil",
+        "link": "https://www.allrecipes.com/recipe/52934/zucchini-alfredo/",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F210059.jpg"
+    },
+    {
+        "vegetable": "Zucchini",
+        "name": "Zucchini Parmesan",
+        "information": "Delicious and easy way to use zucchini!",
+        "ingredients": "Onion, garlic, spaghetti sauce, and Shredded Mozzarella Cheese",
+        "link": "https://www.allrecipes.com/recipe/21021/zucchini-parmesan/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3820024.jpg&w=595&h=398&c=sc&poi=face&q=85"
+    },
+    {
+        "vegetable": "Zucchini",
+        "name": "Zucchini Puffs",
+        "information": "A great way to use up the abundant zucchini in your garden. I freeze grated zucchini in 2 cup portions for winter Puffs!",
+        "ingredients": "Eggs, onion, garlic, and buttermilk baking mix",
+        "link": "https://www.allrecipes.com/recipe/40398/zucchini-puffs/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1775514.jpg"
+    },
+    {
+        "vegetable": "Zucchini",
+        "name": "Zucchini Caprese",
+        "information": "Zucchini cooked with basil and tomatoes is delicious as a side dish or on its own as a healthy meal. Goes great with grilled chicken.",
+        "ingredients": "Onion, garlic, basil,  tomatoes, and Shredded Mozzarella Cheese",
+        "link": "https://www.allrecipes.com/recipe/229584/zucchini-caprese/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1984649.jpg"
+    },
+    {
+        "vegetable": "Zucchini",
+        "name": "Roasted Zucchini",
+        "information": "This is the simplest of side dishes, endlessly customizable. Try it when you have an abundance of zucchini in the garden.",
+        "ingredients": "Garlic powder, cayenne pepper, lemon, and parsley",
+        "link": "https://www.allrecipes.com/recipe/280900/roasted-zucchini/  ",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8317998.jpg"
+    }
+]
